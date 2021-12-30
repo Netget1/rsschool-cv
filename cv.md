@@ -38,5 +38,5 @@ function multiply(a, b) {
   + automated electric drive
 **********
 ## Languages 
-* Russian
-* English - A2
+* Russian;
+* English - A2.
