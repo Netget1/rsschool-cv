@@ -1,2 +1,2 @@
 # rsschool-cv
-# https://Netget1.github.io/rsschool-cv/cv
+https://github.com/Netget1/rsschool-cv/
