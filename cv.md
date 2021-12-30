@@ -14,7 +14,7 @@ I am 28 years old, now I work as a electrical engineer. My goal is to change the
 
 * My qualities:
   + desire to learn;
-  + hard work
+  + hard work;
   + team play;
   + smart student.
 
