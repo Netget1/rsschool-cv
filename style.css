@@ -1,24 +1,103 @@
 body {
-	font-size: small;
-	font-family: Vernada, Helvetica, Arial, sans-serif;
-	line-height: 1.6em;
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #f2f2f2;
+  background-color: #080208;
+  background-image: url("assets/img/hero-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
 }
-h1, h2 {
-  color: #007e7e;
+
+.container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
 }
-h1 {
-  font-size: 150%;
+
+.page-header {
+  margin: 0 0 180px;
+  padding: 32px 0 32px;
 }
-h2 {
-  font-size: 130%;
+
+.page-header .container,
+.page-footer .container {
+  max-width: 1408px;
+  text-align: right;
 }
-.quarantee {
-	border: black 1px solid;
-	background-color: #a7cece;
-	padding: 25px;
-	margin: 30px;
-	color: #444444;
-	line-height: 1.9em;
-	font-family: Georgia, 'Times New Roman', Times, serif;
-	
-	
+
+.page-header a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.header-email {
+  padding-left: 30px;
+  background-image: url("assets/img/icon-email.svg");
+}
+
+.header-phone {
+  padding-left: 25px;
+  background-image: url("assets/img/icon-phone.svg");
+}
+
+.hero-image {
+  margin-bottom: 100px;
+}
+
+.hero-image .container {
+  max-width: 1408px;
+  text-align: center;
+}
+
+.heading {
+  margin: 0 0 24px;
+  font-size: 80px;
+  line-height: 96px;
+}
+
+.hero-image p {
+  margin: 0;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.intro {
+  margin: 0 0 120px;
+}
+
+.user-image {
+  margin: 0 0 32px;
+  text-align: center;
+}
+
+.intro h2 {
+  margin: 0 0 12px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: 500;
+}
+
+.intro p {
+  margin: 0 0 32px;
+}
+.page-footer {
+  padding: 40px 0;
+  background-color: #260c26;
+}
+
+.page-footer a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+
+
