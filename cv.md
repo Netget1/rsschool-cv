@@ -6,7 +6,7 @@
 * E-mail: vitalik1910293@gmail.com;
 * GitHub: Netget1;
 * Discord: VITALI BABENKA#2840;
-***********
+***
 ## About me
 
 I am 28 years old, now I work as a electrical engineer. My goal is to change the type of activity and go to web development. Now, my goal is to gain knowledge and develop in this direction. That's why i'm here.
@@ -14,29 +14,29 @@ I am 28 years old, now I work as a electrical engineer. My goal is to change the
 
 * My qualities:
   + desire to learn;
-  + hard work;
+  + hard work
   + team play;
   + smart student.
 
-*********
+***
 
 ## Skills
 1. HTML;
 2. CSS;
 3. JS.
 
-**********
+***
 ## Code Examples
 
 function multiply(a, b) {
   return a * b
 } ​
 
-*********
+***
 ## Education
 * Belarusian-Russian University
   + automated electric drive
-**********
+***
 ## Languages 
-* Russian;
-* English - A2.
+* Russian
+* English - A2
